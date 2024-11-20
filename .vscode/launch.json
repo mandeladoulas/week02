@@ -7,7 +7,7 @@
         {
             "type": "chrome",
             "request": "launch",
-            "name": "Open index.html.html",
+            "name": "Open index.html",
             "file": "c:\\Users\\Datec PNG Ltd\\Desktop\\PYTHON\\wdd130\\index.html.html"
         }
     ]
