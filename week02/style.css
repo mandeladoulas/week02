@@ -1,21 +1,19 @@
-body { margin: 0; 
-    padding:25px;
-    font-family: Arial, sans-serif;
-    background-image: url('BP.jpg');
-    background-size: cover; 
-    background-position: center; 
-    width: 100vw; 
-    height: 100vh; 
-    display: flex; 
-    align-items: center; 
-    justify-content: center; }
+
 .box {
-    background: rgba(95, 14, 14, 0.8);
-    border-radius: 200px;
-    padding: 800px;
-    width: auto; 
-    max-width:1200px; 
-    margin: 20px; 
-    box-shadow: 10 4px 8px rgba(170, 148, 148, 0.1);
+    
+    background-color: rgb(189, 120, 120);
+    padding:25px; 
     text-align: center;
+
+    background-image: url(BP.jpg);
+
+    
 }
+.box2{
+
+    padding:25px;
+    text-align:center;
+
+}
+
+
