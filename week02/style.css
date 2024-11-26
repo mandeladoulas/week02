@@ -12,7 +12,7 @@ body { margin: 0;
 .box {
     background: rgba(95, 14, 14, 0.8);
     border-radius: 200px;
-    padding: 25px;
+    padding: 800px;
     width: auto; 
     max-width:1200px; 
     margin: 20px; 
