@@ -1,11 +1,21 @@
-
+body { margin: 0; 
+    padding:25px;
+    font-family: Arial, sans-serif;
+    background-image: url('BP.jpg');
+    background-size: cover; 
+    background-position: center; 
+    width: 100vw; 
+    height: 100vh; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; }
 .box {
     background: rgba(95, 14, 14, 0.8);
-    border-radius: 100px;
-    padding: 800px;
+    border-radius: 200px;
+    padding: 25px;
     width: auto; 
-    max-width:200px; 
-    margin: 0px; 
-    box-shadow: 0 4px 8px rgba(170, 148, 148, 0.1);
+    max-width:1200px; 
+    margin: 20px; 
+    box-shadow: 10 4px 8px rgba(170, 148, 148, 0.1);
     text-align: center;
 }
